@@ -20,7 +20,10 @@ You can add more target with adding more line containing
 target [IP Address]:[port number]
 ```
 
-Application will listen on 0.0.0.0
+**Note:**
+
+- Application will listen on 0.0.0.0
+- You can import this project to Mono Develop and will succesfully running there.
 
 License
 -------
